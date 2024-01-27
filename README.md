@@ -7,9 +7,8 @@
 
 
 #Array 
-
-*Same data type 
-*Fixed Size 
+-Same data type 
+-Fixed Size 
 
 
 
